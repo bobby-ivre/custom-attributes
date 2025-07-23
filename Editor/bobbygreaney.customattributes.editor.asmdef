@@ -1,0 +1,20 @@
+{
+    "name": "bobbygreaney.customattributes.editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6070c77227d30684d85c7cb8e025642c"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

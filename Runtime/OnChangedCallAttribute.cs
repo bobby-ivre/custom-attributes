@@ -8,7 +8,7 @@ using UnityEngine;
 namespace LughNut.CustomAttributes
 {
     /// <summary>
-    /// Calls a function when the field is changed
+    /// EDITOR ONLY: Calls a function when the field is changed
     /// </summary>
     public class OnChangedCallAttribute : PropertyAttribute
     {

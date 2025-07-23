@@ -1,7 +1,7 @@
 {
   "name": "com.bobbygreaney.customattributes",
-  "displayName": "LughNut Custom Attributes",
+  "displayName": "Handy Attributes",
   "description": "Common Attribute Functions and Utilities",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "unity": "6000.0"
 }
